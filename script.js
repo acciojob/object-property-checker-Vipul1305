@@ -4,7 +4,8 @@ function hasKey(key) {
   //   write your code here
 	(sampleObject[key] === undefined) ? false : true;
 }
+}
 
 // Do not change the code below
- const key = prompt("Enter Key.");
+ //const key = prompt("Enter Key.");
 alert(hasKey(key));
